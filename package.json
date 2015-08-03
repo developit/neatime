@@ -1,0 +1,26 @@
+{
+  "name": "neatime",
+  "version": "1.0.0",
+  "description": "Returns a simple relative time string",
+  "main": "neatime.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developit/neatime.git"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "moment",
+    "since",
+    "before"
+  ],
+  "author": "Jason Miller <jason@developit.ca>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/developit/neatime/issues"
+  },
+  "homepage": "https://github.com/developit/neatime"
+}
