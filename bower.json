@@ -1,0 +1,28 @@
+{
+  "name": "neatime",
+  "main": "neatime.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/developit/neatime",
+  "authors": [
+    "Jason Miller <jason@developit.ca>"
+  ],
+  "description": "Returns a simple relative time string",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "time",
+    "date",
+    "moment",
+    "since",
+    "before"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

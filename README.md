@@ -1,4 +1,4 @@
-neatime
+neatime [![npm](https://img.shields.io/npm/v/neatime.svg)](http://npm.im/neatime) [![bower](https://img.shields.io/bower/v/neatime.svg)](http://bower.io/search/?q=neatime)
 =======
 
 Returns a simple relative time string.
