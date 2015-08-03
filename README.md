@@ -1,4 +1,4 @@
-neatime [![npm](https://img.shields.io/npm/v/neatime.svg)](http://npm.im/neatime) [![bower](https://img.shields.io/bower/v/neatime.svg)](http://bower.io/search/?q=neatime)
+neatime [![npm]](http://npm.im/neatime) [![bower]](http://bower.io/search/?q=neatime) [![travis]](https://travis-ci.org/developit/neatime)
 =======
 
 Returns a simple relative time string.
@@ -33,3 +33,8 @@ License
 -------
 
 WTFPL
+
+
+[npm]: https://img.shields.io/npm/v/neatime.svg
+[bower]: https://img.shields.io/bower/v/neatime.svg
+[travis]: https://img.shields.io/travis/developit/neatime.svg
