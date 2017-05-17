@@ -1,6 +1,8 @@
 neatime [![npm]](http://npm.im/neatime) [![bower]](http://bower.io/search/?q=neatime) [![travis]](https://travis-ci.org/developit/neatime)
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/developit/neatime.svg)](https://greenkeeper.io/)
+
 Returns a simple relative time string.
 
 
